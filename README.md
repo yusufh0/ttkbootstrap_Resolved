@@ -21,4 +21,4 @@ File "C:\Users\vyusu\AppData\Local\Programs\Python\Python39\lib\site-packages\tt
     self._meterthickness = self.scale_size(
 AttributeError: 'Meter' object has no attribute 'scale_size'
 
-As it mentioned above, I removed self.scale_size().
+As it mentioned above, self.scale_size() should be removed.
